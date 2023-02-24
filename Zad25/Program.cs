@@ -5,13 +5,15 @@ int A = int.Parse(Console.ReadLine()!);
 Console.Write("Введите степень числа: ");
 int B = int.Parse(Console.ReadLine()!);
 //Console.WriteLine($"Число {A} в степени {B} равно {GetPow(A)}");
-int result = GetPow(A);
-Console.WriteLine($"Число {A} в степени {B} равно: {result} ");
+long result = GetPow(A, B);
+Console.WriteLine($"Число {A} в степени {B} равно: {GetPow(A, B)} ");
 
-int GetPow(int result)
-{   
-    result = Math.Pow(A,B);
-}
- return result;
- 
+long GetPow(long decis, int rank)
+{  
+    long result = decis;
+    for (int i=1; i<rank; i++){
+
+        decis  *= result;
+    }
+ return decis;}
  

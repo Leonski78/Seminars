@@ -1,0 +1,15 @@
+C:\Users\Леонид\Desktop\Git_education\Seminars\Seminar24.02\bin\Debug\net6.0\Seminar24.02.exe
+C:\Users\Леонид\Desktop\Git_education\Seminars\Seminar24.02\bin\Debug\net6.0\Seminar24.02.deps.json
+C:\Users\Леонид\Desktop\Git_education\Seminars\Seminar24.02\bin\Debug\net6.0\Seminar24.02.runtimeconfig.json
+C:\Users\Леонид\Desktop\Git_education\Seminars\Seminar24.02\bin\Debug\net6.0\Seminar24.02.dll
+C:\Users\Леонид\Desktop\Git_education\Seminars\Seminar24.02\bin\Debug\net6.0\Seminar24.02.pdb
+C:\Users\Леонид\Desktop\Git_education\Seminars\Seminar24.02\obj\Debug\net6.0\Seminar24.02.csproj.AssemblyReference.cache
+C:\Users\Леонид\Desktop\Git_education\Seminars\Seminar24.02\obj\Debug\net6.0\Seminar24.02.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Леонид\Desktop\Git_education\Seminars\Seminar24.02\obj\Debug\net6.0\Seminar24.02.AssemblyInfoInputs.cache
+C:\Users\Леонид\Desktop\Git_education\Seminars\Seminar24.02\obj\Debug\net6.0\Seminar24.02.AssemblyInfo.cs
+C:\Users\Леонид\Desktop\Git_education\Seminars\Seminar24.02\obj\Debug\net6.0\Seminar24.02.csproj.CoreCompileInputs.cache
+C:\Users\Леонид\Desktop\Git_education\Seminars\Seminar24.02\obj\Debug\net6.0\Seminar24.02.dll
+C:\Users\Леонид\Desktop\Git_education\Seminars\Seminar24.02\obj\Debug\net6.0\refint\Seminar24.02.dll
+C:\Users\Леонид\Desktop\Git_education\Seminars\Seminar24.02\obj\Debug\net6.0\Seminar24.02.pdb
+C:\Users\Леонид\Desktop\Git_education\Seminars\Seminar24.02\obj\Debug\net6.0\Seminar24.02.genruntimeconfig.cache
+C:\Users\Леонид\Desktop\Git_education\Seminars\Seminar24.02\obj\Debug\net6.0\ref\Seminar24.02.dll

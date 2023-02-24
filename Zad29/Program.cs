@@ -8,6 +8,8 @@
 Console.Clear();
 Console.WriteLine("Введите число: ");
 int N = int.Parse(Console.ReadLine());
+Console.WriteLine("Введите размер элементов: ");
+int X = int.Parse(Console.ReadLine());
 int[] array = GetArray(N);
 // первый вариант вывода массива:
 Console.WriteLine($"[{String.Join(", " , array)}]");
@@ -23,7 +25,7 @@ int[] GetArray (int size)
     int[] result = new int [size];
     for (int i =0; i < size; i ++)
     {
-        result[i] = new Random ().Next(1000);
+        result[i] = new Random ().Next(X);
     }
         return result;
 }

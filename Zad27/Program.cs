@@ -6,7 +6,7 @@ int GetSum(int N)
     while (N>0)
     // for (int i=0; i<N; i++)
     {   
-        sum = sum + N % 10;
+        sum += N % 10;
         N /=10;
     }
     return sum;

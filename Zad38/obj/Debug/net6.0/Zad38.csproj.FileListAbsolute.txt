@@ -1,0 +1,15 @@
+C:\Users\Леонид\Desktop\Git_education\Seminars\Zad38\obj\Debug\net6.0\Zad38.csproj.AssemblyReference.cache
+C:\Users\Леонид\Desktop\Git_education\Seminars\Zad38\obj\Debug\net6.0\Zad38.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Леонид\Desktop\Git_education\Seminars\Zad38\obj\Debug\net6.0\Zad38.AssemblyInfoInputs.cache
+C:\Users\Леонид\Desktop\Git_education\Seminars\Zad38\obj\Debug\net6.0\Zad38.AssemblyInfo.cs
+C:\Users\Леонид\Desktop\Git_education\Seminars\Zad38\obj\Debug\net6.0\Zad38.csproj.CoreCompileInputs.cache
+C:\Users\Леонид\Desktop\Git_education\Seminars\Zad38\bin\Debug\net6.0\Zad38.exe
+C:\Users\Леонид\Desktop\Git_education\Seminars\Zad38\bin\Debug\net6.0\Zad38.deps.json
+C:\Users\Леонид\Desktop\Git_education\Seminars\Zad38\bin\Debug\net6.0\Zad38.runtimeconfig.json
+C:\Users\Леонид\Desktop\Git_education\Seminars\Zad38\bin\Debug\net6.0\Zad38.dll
+C:\Users\Леонид\Desktop\Git_education\Seminars\Zad38\bin\Debug\net6.0\Zad38.pdb
+C:\Users\Леонид\Desktop\Git_education\Seminars\Zad38\obj\Debug\net6.0\Zad38.dll
+C:\Users\Леонид\Desktop\Git_education\Seminars\Zad38\obj\Debug\net6.0\refint\Zad38.dll
+C:\Users\Леонид\Desktop\Git_education\Seminars\Zad38\obj\Debug\net6.0\Zad38.pdb
+C:\Users\Леонид\Desktop\Git_education\Seminars\Zad38\obj\Debug\net6.0\Zad38.genruntimeconfig.cache
+C:\Users\Леонид\Desktop\Git_education\Seminars\Zad38\obj\Debug\net6.0\ref\Zad38.dll

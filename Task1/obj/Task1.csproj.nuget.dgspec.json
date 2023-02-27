@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Users\\Леонид\\Desktop\\Git_education\\Seminars\\Seminar18.02\\Task1\\Task1.csproj": {}
+    "C:\\Users\\Леонид\\Desktop\\Git_education\\Seminars\\Task1\\Task1.csproj": {}
   },
   "projects": {
-    "C:\\Users\\Леонид\\Desktop\\Git_education\\Seminars\\Seminar18.02\\Task1\\Task1.csproj": {
+    "C:\\Users\\Леонид\\Desktop\\Git_education\\Seminars\\Task1\\Task1.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\Леонид\\Desktop\\Git_education\\Seminars\\Seminar18.02\\Task1\\Task1.csproj",
+        "projectUniqueName": "C:\\Users\\Леонид\\Desktop\\Git_education\\Seminars\\Task1\\Task1.csproj",
         "projectName": "Task1",
-        "projectPath": "C:\\Users\\Леонид\\Desktop\\Git_education\\Seminars\\Seminar18.02\\Task1\\Task1.csproj",
+        "projectPath": "C:\\Users\\Леонид\\Desktop\\Git_education\\Seminars\\Task1\\Task1.csproj",
         "packagesPath": "C:\\Users\\Леонид\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\Леонид\\Desktop\\Git_education\\Seminars\\Seminar18.02\\Task1\\obj\\",
+        "outputPath": "C:\\Users\\Леонид\\Desktop\\Git_education\\Seminars\\Task1\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "C:\\Users\\Леонид\\AppData\\Roaming\\NuGet\\NuGet.Config"

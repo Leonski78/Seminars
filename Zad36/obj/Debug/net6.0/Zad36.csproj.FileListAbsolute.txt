@@ -3,3 +3,13 @@ C:\Users\Леонид\Desktop\Git_education\Seminars\Zad36\obj\Debug\net6.0\Zad3
 C:\Users\Леонид\Desktop\Git_education\Seminars\Zad36\obj\Debug\net6.0\Zad36.AssemblyInfoInputs.cache
 C:\Users\Леонид\Desktop\Git_education\Seminars\Zad36\obj\Debug\net6.0\Zad36.AssemblyInfo.cs
 C:\Users\Леонид\Desktop\Git_education\Seminars\Zad36\obj\Debug\net6.0\Zad36.csproj.CoreCompileInputs.cache
+C:\Users\Леонид\Desktop\Git_education\Seminars\Zad36\bin\Debug\net6.0\Zad36.exe
+C:\Users\Леонид\Desktop\Git_education\Seminars\Zad36\bin\Debug\net6.0\Zad36.deps.json
+C:\Users\Леонид\Desktop\Git_education\Seminars\Zad36\bin\Debug\net6.0\Zad36.runtimeconfig.json
+C:\Users\Леонид\Desktop\Git_education\Seminars\Zad36\bin\Debug\net6.0\Zad36.dll
+C:\Users\Леонид\Desktop\Git_education\Seminars\Zad36\bin\Debug\net6.0\Zad36.pdb
+C:\Users\Леонид\Desktop\Git_education\Seminars\Zad36\obj\Debug\net6.0\Zad36.dll
+C:\Users\Леонид\Desktop\Git_education\Seminars\Zad36\obj\Debug\net6.0\refint\Zad36.dll
+C:\Users\Леонид\Desktop\Git_education\Seminars\Zad36\obj\Debug\net6.0\Zad36.pdb
+C:\Users\Леонид\Desktop\Git_education\Seminars\Zad36\obj\Debug\net6.0\Zad36.genruntimeconfig.cache
+C:\Users\Леонид\Desktop\Git_education\Seminars\Zad36\obj\Debug\net6.0\ref\Zad36.dll

@@ -4,14 +4,14 @@
 [3, 7, 23, 12] -> 19
 [-4, -6, 89, 6] -> 0               
 */
-int[] array = GetRandomArray(20, 10, 100);
+int[] array = GetRandomArray(10, 0, 20);
 Console.WriteLine(String.Join(", ", array));
 
 int Sum = 0;
 
-foreach (int el in array)
+for (int i=0; i<array.Length; i++)
 {
-    Sum += el % 2 = 1 ? el : 0;
+    Sum += i % 2 == 1 ? array[i] : 0;
 }
 Console.WriteLine($"Cумма элементов, стоящих на нечётных позициях = {Sum}");
 

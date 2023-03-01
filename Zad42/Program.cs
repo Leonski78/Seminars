@@ -8,11 +8,12 @@
 // 2 -> 10
 
 Console.Clear();
+Console.Write("Введите число: ");
 int number = int.Parse(Console.ReadLine());
 
 string res = DecToNum(number, 16);
 
-Console.WriteLine($"{number}->{res}");
+Console.WriteLine($"{number} -> {res}");
 
 
 //Универсальный математический для перевода из 10 в любую

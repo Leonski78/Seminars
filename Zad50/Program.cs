@@ -15,7 +15,10 @@ int columns=int.Parse(ReadLine());
 int[,] array = GetArray(rows, columns,0,10);
 PrintArray(array);
 WriteLine();
-// PrintArray(FindArray(array));
+Write("Введите число: ");
+int a = int.Parse(ReadLine());
+
+PrintArray(FindArray(int[,] result));
 
 int[,] GetArray(int m, int n, int min, int max)
 {
@@ -31,22 +34,17 @@ int[,] GetArray(int m, int n, int min, int max)
     return result;
 }
 
-
-Write("Введите число: ");
-int a = int.Parse(ReadLine());
-int[,] FindArray(int[,] array)
+int[,] FindArray(int[,] result, int a)
 {
-    for (int i = 0; i < array.GetLength(0); i++)
+    int[,] array = new int[i, j];
+        for (int i = 0; i < array.GetLength(0); i++)
     {
         for (int j = 0; j < array.GetLength(1); j++)
         {
-            if (array[i,j] == a)
-            {
-                Write($"Число {a} найдено");
-            }
+            result[i, j] = a;
         }
     }
-    return array;
+    return result;
 }
 
 void PrintArray(int[,] array)

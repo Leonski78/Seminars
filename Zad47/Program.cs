@@ -14,14 +14,14 @@ int n = int.Parse(ReadLine());
 double[,] array = GetArray(m, n, 0, 10);
 PrintArray(array);
 
-double[,] GetArray(int m, int n, double minValue, double maxValue)
+double[,] GetArray(int m, int n, int minValue, int maxValue)
 {
     double[,] result = new double[m, n];
     for (int i = 0; i < m; i++)
     {
         for (int j = 0; j < n; j++)
         {
-            result[i, j] = new Random().Next(minValue, maxValue+1);
+            result[i, j] = new Random().NextDouble();
         }
     }
     return result;
@@ -33,7 +33,7 @@ void PrintArray(double[,] inArray)
     {
         for (int j = 0; j < inArray.GetLength(1); j++)
         {
-            Write($"{inArray[i,j]} ");
+            Write($"{inArray[i,j]:f2} ");
         }
         WriteLine();
     }

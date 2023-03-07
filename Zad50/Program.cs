@@ -17,8 +17,8 @@ PrintArray(array);
 WriteLine();
 Write("Введите число: ");
 int a = int.Parse(ReadLine());
-
-PrintArray(FindArray(int[,] result));
+string result = FindArray(array, a);
+WriteLine(result);
 
 int[,] GetArray(int m, int n, int min, int max)
 {
@@ -34,18 +34,25 @@ int[,] GetArray(int m, int n, int min, int max)
     return result;
 }
 
-int[,] FindArray(int[,] result, int a)
-{
-    int[,] array = new int[i, j];
-        for (int i = 0; i < array.GetLength(0); i++)
-    {
-        for (int j = 0; j < array.GetLength(1); j++)
-        {
-            result[i, j] = a;
-        }
-    }
-    return result;
-}
+// void FindArray(int[,] result, int a)
+// {
+//     // int[,] result = new int[i, j];
+//         for (int i = 0; i < array.GetLength(0); i++)
+//     {
+//         for (int j = 0; j < array.GetLength(1); j++)
+//         { 
+//             if (result[i, j] == a)
+//             {
+//                 Write($"Число {a} найдено");
+//             }
+//             else
+//             {
+//                 Write($"Число {a} не найдено");
+//             }
+//         }
+//     }
+//     // return result;
+// }
 
 void PrintArray(int[,] array)
 {
@@ -57,4 +64,18 @@ void PrintArray(int[,] array)
         }
         WriteLine();
     }
+}
+string FindArray(int[,] result, int a)
+{
+        for (int i = 0; i < array.GetLength(0); i++)
+    {
+        for (int j = 0; j < array.GetLength(1); j++)
+        { 
+            if (result[i, j] == a)
+            {
+                return  "найдено";
+            }
+        }
+    }
+    return   "не найдено";
 }

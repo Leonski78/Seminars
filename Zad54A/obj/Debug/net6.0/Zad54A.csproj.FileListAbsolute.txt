@@ -1,0 +1,15 @@
+C:\Users\Леонид\Desktop\Git_education\Seminars\Zad54A\bin\Debug\net6.0\Zad54A.exe
+C:\Users\Леонид\Desktop\Git_education\Seminars\Zad54A\bin\Debug\net6.0\Zad54A.deps.json
+C:\Users\Леонид\Desktop\Git_education\Seminars\Zad54A\bin\Debug\net6.0\Zad54A.runtimeconfig.json
+C:\Users\Леонид\Desktop\Git_education\Seminars\Zad54A\bin\Debug\net6.0\Zad54A.dll
+C:\Users\Леонид\Desktop\Git_education\Seminars\Zad54A\bin\Debug\net6.0\Zad54A.pdb
+C:\Users\Леонид\Desktop\Git_education\Seminars\Zad54A\obj\Debug\net6.0\Zad54A.csproj.AssemblyReference.cache
+C:\Users\Леонид\Desktop\Git_education\Seminars\Zad54A\obj\Debug\net6.0\Zad54A.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Леонид\Desktop\Git_education\Seminars\Zad54A\obj\Debug\net6.0\Zad54A.AssemblyInfoInputs.cache
+C:\Users\Леонид\Desktop\Git_education\Seminars\Zad54A\obj\Debug\net6.0\Zad54A.AssemblyInfo.cs
+C:\Users\Леонид\Desktop\Git_education\Seminars\Zad54A\obj\Debug\net6.0\Zad54A.csproj.CoreCompileInputs.cache
+C:\Users\Леонид\Desktop\Git_education\Seminars\Zad54A\obj\Debug\net6.0\Zad54A.dll
+C:\Users\Леонид\Desktop\Git_education\Seminars\Zad54A\obj\Debug\net6.0\refint\Zad54A.dll
+C:\Users\Леонид\Desktop\Git_education\Seminars\Zad54A\obj\Debug\net6.0\Zad54A.pdb
+C:\Users\Леонид\Desktop\Git_education\Seminars\Zad54A\obj\Debug\net6.0\Zad54A.genruntimeconfig.cache
+C:\Users\Леонид\Desktop\Git_education\Seminars\Zad54A\obj\Debug\net6.0\ref\Zad54A.dll

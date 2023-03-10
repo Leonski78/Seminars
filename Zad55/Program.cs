@@ -76,13 +76,13 @@ void ChangeArray2(int[,] array)
 {
     if (array.GetLength(0) != array.GetLength(1))
     {
-        WriteLine("В данном массиве нельзя заменить элементы!");
+        WriteLine("В данной матрице нельзя заменить элементы!");
         return;
     }
 
     for (int i = 0; i < array.GetLength(0); i++)
     {
-        for (int j = i; j < array.GetLength(1); j++) // j=i !!!
+        for (int j = i; j < array.GetLength(1); j++)
         {
             int k = array[j, i];
             array[j, i] = array[i, j];

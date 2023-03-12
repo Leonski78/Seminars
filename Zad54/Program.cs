@@ -20,9 +20,10 @@ Write("Введите количество столбцов массива: ");
 int columns = int.Parse(ReadLine());
 int[,] array = GetArray(rows, columns, 0, 10);
 PrintArray(array);
+SortArray(array);
 WriteLine();
-int[,] arr = ChangeArray(array);
-PrintArray(arr);
+PrintArray(array);
+
 
 int[,] GetArray(int m, int n, int min, int max)
 {
@@ -38,55 +39,6 @@ int[,] GetArray(int m, int n, int min, int max)
     return result;
 }
 
-// int[] GetRowArray(int[,] inArray)
-// {
-//     int[] result = new int[inArray.GetLength(0) * inArray.GetLength(1)];
-//     int index = 0;
-//     for (int i = 0; i < inArray.GetLength(0); i++)
-//     {
-//         for (int j = 0; j < inArray.GetLength(1); j++)
-//         {
-//             result[index] = inArray[i, j];
-//             index++;
-//         }
-//     }
-//     return result;
-// }
-
-int[,] ChangeArray(int[,] array)
-{
-    int[,] result1 = new int [array.GetLength(0), array.GetLength(1)];
-    for (int i = 0; i < array.GetLength(0); i++)
-    {
-    for (int j = 0; j < array.GetLength(1); j++)
-        {   
-                if (result1[i, j] > array[i, j])
-            {
-                int k = result1[i, j];
-                result1[i, j] = array[i, j];
-                array[i, j] = k;
-            }
-        }
-    }
-    return result1;
-}
-
-// void SortArray(int[] inArray)
-// {
-//     for (int i = 0; i < inArray.Length; i++)
-//     {
-//         for (int j = i + 1; j < inArray.Length; j++)
-//         {
-//             if (inArray[i] > inArray[j])
-//             {
-//                 int k = inArray[i];
-//                 inArray[i] = inArray[j];
-//                 inArray[j] = k;
-//             }
-//         }
-//     }
-// }
-
 
 void PrintArray(int[,] inArray)
 {
@@ -100,22 +52,23 @@ void PrintArray(int[,] inArray)
     }
 }
 
-// void PrintData(int[] inArray)
-// {
-//     int el = inArray[0];
-//     int count = 1;
-//     for (int i = 1; i < inArray.Length; i++)
-//     {
-//         if (inArray[i] != el)
-//         {
-//             WriteLine($"{el} встречается {count}");
-//             el = inArray[i];
-//             count = 1;
-//         }
-//         else
-//         {
-//             count++;
-//         }
-//     }
-//     WriteLine($"{el} встречается {count}");
-// }
+void SortArray(int[,] array)
+{
+    for (int i = 0; i < array.GetLength(0); i++)
+    {
+        for (int j = 0; j < array.GetLength(1); j++)
+        {
+            for (int t = j + 1; t < array.GetLength(1); t++)
+            {
+                if (array[i, t] > array[i, j])
+                {
+                    int temp = array[i, j];
+                    array[i, j] = array[i, t];
+                    array[i, t] = temp;
+                }
+            }
+        }
+    }
+}
+
+

@@ -1,0 +1,15 @@
+C:\Users\Леонид\Desktop\Git_education\Seminars\Zad64\bin\Debug\net6.0\Zad64.exe
+C:\Users\Леонид\Desktop\Git_education\Seminars\Zad64\bin\Debug\net6.0\Zad64.deps.json
+C:\Users\Леонид\Desktop\Git_education\Seminars\Zad64\bin\Debug\net6.0\Zad64.runtimeconfig.json
+C:\Users\Леонид\Desktop\Git_education\Seminars\Zad64\bin\Debug\net6.0\Zad64.dll
+C:\Users\Леонид\Desktop\Git_education\Seminars\Zad64\bin\Debug\net6.0\Zad64.pdb
+C:\Users\Леонид\Desktop\Git_education\Seminars\Zad64\obj\Debug\net6.0\Zad64.csproj.AssemblyReference.cache
+C:\Users\Леонид\Desktop\Git_education\Seminars\Zad64\obj\Debug\net6.0\Zad64.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Леонид\Desktop\Git_education\Seminars\Zad64\obj\Debug\net6.0\Zad64.AssemblyInfoInputs.cache
+C:\Users\Леонид\Desktop\Git_education\Seminars\Zad64\obj\Debug\net6.0\Zad64.AssemblyInfo.cs
+C:\Users\Леонид\Desktop\Git_education\Seminars\Zad64\obj\Debug\net6.0\Zad64.csproj.CoreCompileInputs.cache
+C:\Users\Леонид\Desktop\Git_education\Seminars\Zad64\obj\Debug\net6.0\Zad64.dll
+C:\Users\Леонид\Desktop\Git_education\Seminars\Zad64\obj\Debug\net6.0\refint\Zad64.dll
+C:\Users\Леонид\Desktop\Git_education\Seminars\Zad64\obj\Debug\net6.0\Zad64.pdb
+C:\Users\Леонид\Desktop\Git_education\Seminars\Zad64\obj\Debug\net6.0\Zad64.genruntimeconfig.cache
+C:\Users\Леонид\Desktop\Git_education\Seminars\Zad64\obj\Debug\net6.0\ref\Zad64.dll

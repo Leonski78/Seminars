@@ -15,6 +15,6 @@ WriteLine(PrintNumbers(1, n));
 
 string PrintNumbers(int start, int end)
 {
-    if (end == start) return end.ToString();
-    return (end + " " + PrintNumbers(start, end - 1));
+    if (end == 1) return end.ToString();
+    return (end + " " + PrintNumbers(1, end - 1));
 }
